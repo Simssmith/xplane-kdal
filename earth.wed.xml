@@ -43,7 +43,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="3333"/>
+                <sel id="3346"/>
             </selection>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -29616,6 +29616,14 @@
             <sources/>
             <viewers/>
             <children>
+                <child id="3344"/>
+                <child id="3343"/>
+                <child id="3342"/>
+                <child id="3341"/>
+                <child id="3340"/>
+                <child id="3339"/>
+                <child id="3346"/>
+                <child id="3345"/>
                 <child id="2870"/>
             </children>
             <hierarchy hidden="0" locked="1" name="Ramp Starts"/>
@@ -32826,6 +32834,70 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.843867333" longitude="-96.845270403" split="0"/>
             <facade_node wall_type="Wall 1"/>
         </object>
+        <object class="WED_RampPosition" id="3339" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 31L"/>
+            <point heading="133.67" latitude="32.835727151" longitude="-96.843550203"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3340" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 31R"/>
+            <point heading="136.33" latitude="32.843449935" longitude="-96.838932505"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3341" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 36"/>
+            <point heading="-88.57" latitude="32.841873364" longitude="-96.854290703"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3342" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 18"/>
+            <point heading="-85.33" latitude="32.858089780" longitude="-96.852411407"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3343" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 13R"/>
+            <point heading="-133.21" latitude="32.851765761" longitude="-96.862730738"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3344" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Short Rwy 13L"/>
+            <point heading="-133.03" latitude="32.857744558" longitude="-96.855989490"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="47" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3345" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Gate 10"/>
+            <point heading="-180.00" latitude="32.846292495" longitude="-96.849889303"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Misc" width="E"/>
+        </object>
+        <object class="WED_RampPosition" id="3346" parent_id="2871">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Gate 12"/>
+            <point heading="-180.99" latitude="32.846330755" longitude="-96.850402339"/>
+            <ramp_start airlines="" ramp_op_type="None" traffic="1" type="Tie-Down" width="D"/>
+        </object>
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
@@ -32834,7 +32906,6 @@
             <item value="1155"/>
             <item value="1250"/>
             <item value="2866"/>
-            <item value="2871"/>
             <item value="2875"/>
             <item value="2881"/>
             <item value="2942"/>
@@ -32851,15 +32922,15 @@
         </pref>
         <pref name="doc/export_target" value="3"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-96.841171"/>
-        <pref name="map/north" value="32.845459"/>
+        <pref name="map/east" value="-96.849805"/>
+        <pref name="map/north" value="32.846919"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="32.838780"/>
+        <pref name="map/south" value="32.845601"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-96.847866"/>
+        <pref name="map/west" value="-96.851126"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -32935,8 +33006,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="384"/>
         <pref name="window/main_split2" value="1290"/>
-        <pref name="window/prev_split" value="594"/>
-        <pref name="window/prop_split" value="697"/>
+        <pref name="window/prev_split" value="604"/>
+        <pref name="window/prop_split" value="708"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
