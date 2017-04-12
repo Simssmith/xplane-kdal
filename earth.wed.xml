@@ -43,7 +43,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="3055"/>
+                <sel id="3060"/>
             </selection>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
@@ -30955,7 +30955,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 5"/>
+            <hierarchy hidden="0" locked="0" name="Gate 13"/>
             <point heading="0.00" latitude="32.845636909" longitude="-96.850991895"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="6" type="Gate" width="E"/>
         </object>
@@ -30972,6 +30972,11 @@
                 <child id="3049"/>
                 <child id="3048"/>
                 <child id="3047"/>
+                <child id="3060"/>
+                <child id="3059"/>
+                <child id="3058"/>
+                <child id="3057"/>
+                <child id="3056"/>
                 <child id="3046"/>
                 <child id="3045"/>
                 <child id="3044"/>
@@ -30990,7 +30995,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 6"/>
+            <hierarchy hidden="0" locked="0" name="Gate 15"/>
             <point heading="0.00" latitude="32.845645384" longitude="-96.851521018"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -30998,7 +31003,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 7"/>
+            <hierarchy hidden="0" locked="0" name="Gate 11"/>
             <point heading="0.00" latitude="32.845640519" longitude="-96.850565114"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31006,7 +31011,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 8"/>
+            <hierarchy hidden="0" locked="0" name="Gate 17"/>
             <point heading="31.50" latitude="32.845627243" longitude="-96.851970580"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31014,7 +31019,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 9"/>
+            <hierarchy hidden="0" locked="0" name="Gate 19"/>
             <point heading="91.04" latitude="32.845975282" longitude="-96.852214701"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31022,7 +31027,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 10"/>
+            <hierarchy hidden="0" locked="0" name="Gate 20"/>
             <point heading="139.97" latitude="32.846365691" longitude="-96.852294481"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31030,7 +31035,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 11"/>
+            <hierarchy hidden="0" locked="0" name="Gate 18"/>
             <point heading="178.78" latitude="32.846468841" longitude="-96.851826533"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31038,7 +31043,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 12"/>
+            <hierarchy hidden="0" locked="0" name="Gate 16"/>
             <point heading="180.00" latitude="32.846476626" longitude="-96.851381751"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31046,7 +31051,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 13"/>
+            <hierarchy hidden="0" locked="0" name="Gate 14"/>
             <point heading="180.00" latitude="32.846465285" longitude="-96.850864530"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31054,7 +31059,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 14"/>
+            <hierarchy hidden="0" locked="0" name="Gate 12"/>
             <point heading="180.00" latitude="32.846469144" longitude="-96.850405109"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31062,7 +31067,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 15"/>
+            <hierarchy hidden="0" locked="0" name="Gate 10"/>
             <point heading="181.49" latitude="32.846471846" longitude="-96.849889391"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31070,7 +31075,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 16"/>
+            <hierarchy hidden="0" locked="0" name="Gate 8"/>
             <point heading="180.00" latitude="32.846469916" longitude="-96.849390919"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31078,7 +31083,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 17"/>
+            <hierarchy hidden="0" locked="0" name="Gate 6"/>
             <point heading="178.91" latitude="32.846466057" longitude="-96.848916337"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31086,7 +31091,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 18"/>
+            <hierarchy hidden="0" locked="0" name="Gate 4"/>
             <point heading="180.00" latitude="32.846483811" longitude="-96.848437561"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31094,7 +31099,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 19"/>
+            <hierarchy hidden="0" locked="0" name="Gate 2"/>
             <point heading="180.67" latitude="32.846479566" longitude="-96.847960683"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31102,7 +31107,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 20"/>
+            <hierarchy hidden="0" locked="0" name="Gate 1"/>
             <point heading="-125.06" latitude="32.846315165" longitude="-96.847551532"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31110,7 +31115,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 21"/>
+            <hierarchy hidden="0" locked="0" name="Gate 3"/>
             <point heading="-37.78" latitude="32.846001440" longitude="-96.847335567"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31118,7 +31123,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 22"/>
+            <hierarchy hidden="0" locked="0" name="Gate 5"/>
             <point heading="0.00" latitude="32.845581521" longitude="-96.847787025"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31126,7 +31131,7 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 23"/>
+            <hierarchy hidden="0" locked="0" name="Gate 7"/>
             <point heading="0.00" latitude="32.845558363" longitude="-96.848274926"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
         </object>
@@ -31134,9 +31139,49 @@
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="New Ramp Start 24"/>
+            <hierarchy hidden="0" locked="0" name="Gate 9"/>
             <point heading="0.00" latitude="32.845562994" longitude="-96.848724236"/>
             <ramp_start airlines="" ramp_op_type="None" traffic="0" type="Misc" width="E"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3056" parent_id="3036">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Ramp_Parking_Stripe.obj"/>
+            <point heading="178.78" latitude="32.848585364" longitude="-96.852218575"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3057" parent_id="3036">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Ramp_Parking_Stripe.obj"/>
+            <point heading="178.78" latitude="32.848577707" longitude="-96.851762899"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3058" parent_id="3036">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Ramp_Parking_Stripe.obj"/>
+            <point heading="178.78" latitude="32.848580897" longitude="-96.851286336"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3059" parent_id="3036">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Ramp_Parking_Stripe.obj"/>
+            <point heading="178.78" latitude="32.848578141" longitude="-96.850833579"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3060" parent_id="3036">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Ramp_Parking_Stripe.obj"/>
+            <point heading="178.78" latitude="32.848578141" longitude="-96.850357856"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj" show_level="1 Default"/>
         </object>
     </objects>
     <prefs>
@@ -31157,15 +31202,15 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-96.847936"/>
-        <pref name="map/north" value="32.849283"/>
+        <pref name="map/east" value="-96.847583"/>
+        <pref name="map/north" value="32.851751"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="32.841391"/>
+        <pref name="map/south" value="32.845228"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-96.855847"/>
+        <pref name="map/west" value="-96.854122"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -31173,7 +31218,7 @@
         <pref name="map_Boundary_Markings" value=""/>
         <pref name="map_Exclusions_Exclusions" value=""/>
         <pref name="map_Facades_Height" value="10.000000"/>
-        <pref name="map_Facades_Resource" value="lib/airport/Common_Elements/Misc_Buildings/Cargo_Terminal.fac"/>
+        <pref name="map_Facades_Resource" value="lib/airport/Ramp_Equipment/Jet_Blast_Shield.fac"/>
         <pref name="map_Forests_Density" value="1.000000"/>
         <pref name="map_Forests_Resource" value="lib/g10/forests/AG_trees_EU1.for"/>
         <pref name="map_Helipad_Edge Lights" value="15"/>
@@ -31187,7 +31232,7 @@
         <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
         <pref name="map_Light Fixture_Fixture Type" value="35"/>
         <pref name="map_Lines_Resource" value="lib/airport/lines/9_double_parking.lin"/>
-        <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Fuel_Storage/Sing_Tank_Large.obj"/>
+        <pref name="map_Objects_Object" value="lib/airport/Ramp_Equipment/Ramp_Parking_Stripe.obj"/>
         <pref name="map_Objects_Show with" value="558"/>
         <pref name="map_Polygons_Heading" value="0.000000"/>
         <pref name="map_Polygons_Resource" value="lib/g10/US/industrial/light/IndLightFlatDry1.ags"/>
@@ -31240,8 +31285,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="384"/>
         <pref name="window/main_split2" value="1290"/>
-        <pref name="window/prev_split" value="754"/>
-        <pref name="window/prop_split" value="439"/>
+        <pref name="window/prev_split" value="407"/>
+        <pref name="window/prop_split" value="449"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
