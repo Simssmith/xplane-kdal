@@ -68,6 +68,9 @@
             <sources/>
             <viewers/>
             <children>
+                <child id="3411"/>
+                <child id="3405"/>
+                <child id="3399"/>
                 <child id="3301"/>
                 <child id="3294"/>
                 <child id="3168"/>
@@ -31772,7 +31775,7 @@
             <children>
                 <child id="3249"/>
             </children>
-            <hierarchy hidden="1" locked="0" name="tile4-4.tif"/>
+            <hierarchy hidden="0" locked="0" name="tile4-4.tif"/>
             <draped_orthophoto heading="0.0" length="0.00" resource="textures\tile4-4.tif" tex_bottom="0.000" tex_left="0.000" tex_right="1.000" tex_top="1.000" width="0.00"/>
         </object>
         <object class="WED_Ring" id="3249" parent_id="3248">
@@ -32110,14 +32113,14 @@
                 <child id="3288"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Fenced_Parking.fac"/>
-            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Fence_Facades/Fenced_Parking.fac" show_level="1 Default"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Fence_Facades/Fenced_Parking.fac" show_level="3 Tons"/>
         </object>
         <object class="WED_FacadeNode" id="3290" parent_id="3288">
             <sources/>
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.835932884" longitude="-96.837743209" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.834534993" longitude="-96.836859949" split="0"/>
             <facade_node wall_type="Wall 5"/>
         </object>
         <object class="WED_FacadeNode" id="3291" parent_id="3288">
@@ -32125,7 +32128,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 2"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.836923848" longitude="-96.838927128" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.835497134" longitude="-96.837958115" split="0"/>
             <facade_node wall_type="Wall 5"/>
         </object>
         <object class="WED_FacadeNode" id="3292" parent_id="3288">
@@ -32133,7 +32136,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 3"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.836073906" longitude="-96.839992797" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.834099565" longitude="-96.839666934" split="0"/>
             <facade_node wall_type="Wall 5"/>
         </object>
         <object class="WED_FacadeNode" id="3293" parent_id="3288">
@@ -32141,7 +32144,7 @@
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="Node 4"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.835066747" longitude="-96.838835194" split="0"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.833135639" longitude="-96.838535057" split="0"/>
             <facade_node wall_type="Wall 5"/>
         </object>
         <object class="WED_Group" id="3294" parent_id="5">
@@ -32149,7 +32152,9 @@
             <viewers/>
             <children>
                 <child id="3309"/>
+                <child id="3351"/>
                 <child id="3289"/>
+                <child id="3327"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Parking and Cars"/>
         </object>
@@ -32422,9 +32427,747 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.840556444" longitude="-96.845039466" split="0"/>
             <facade_node wall_type="Wall 1"/>
         </object>
+        <object class="WED_ObjPlacement" id="3326" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-42.64" latitude="32.834860193" longitude="-96.840161379"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_Group" id="3327" parent_id="3294">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3348"/>
+                <child id="3347"/>
+                <child id="3346"/>
+                <child id="3345"/>
+                <child id="3344"/>
+                <child id="3343"/>
+                <child id="3342"/>
+                <child id="3341"/>
+                <child id="3340"/>
+                <child id="3339"/>
+                <child id="3338"/>
+                <child id="3337"/>
+                <child id="3349"/>
+                <child id="3350"/>
+                <child id="3391"/>
+                <child id="3390"/>
+                <child id="3389"/>
+                <child id="3388"/>
+                <child id="3387"/>
+                <child id="3386"/>
+                <child id="3385"/>
+                <child id="3384"/>
+                <child id="3383"/>
+                <child id="3382"/>
+                <child id="3381"/>
+                <child id="3380"/>
+                <child id="3379"/>
+                <child id="3378"/>
+                <child id="3377"/>
+                <child id="3376"/>
+                <child id="3375"/>
+                <child id="3374"/>
+                <child id="3373"/>
+                <child id="3372"/>
+                <child id="3371"/>
+                <child id="3370"/>
+                <child id="3369"/>
+                <child id="3368"/>
+                <child id="3367"/>
+                <child id="3366"/>
+                <child id="3365"/>
+                <child id="3364"/>
+                <child id="3363"/>
+                <child id="3362"/>
+                <child id="3361"/>
+                <child id="3360"/>
+                <child id="3359"/>
+                <child id="3358"/>
+                <child id="3357"/>
+                <child id="3336"/>
+                <child id="3335"/>
+                <child id="3330"/>
+                <child id="3329"/>
+                <child id="3328"/>
+                <child id="3333"/>
+                <child id="3332"/>
+                <child id="3331"/>
+                <child id="3326"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Southern Canopy Farm"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3328" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.54" latitude="32.834976133" longitude="-96.840286023"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3329" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.60" latitude="32.835106286" longitude="-96.840427599"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3330" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-42.61" latitude="32.835224953" longitude="-96.840565624"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3331" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-42.64" latitude="32.834734120" longitude="-96.840019415"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3332" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-42.64" latitude="32.834611927" longitude="-96.839878143"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3333" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-42.64" latitude="32.834490897" longitude="-96.839734102"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="1 Default"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3335" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.834766122" longitude="-96.839399857"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3336" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835864004" longitude="-96.840087129"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3337" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835497206" longitude="-96.840239343"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3338" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835736107" longitude="-96.839943532"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3339" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835366896" longitude="-96.840103886"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3340" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835614243" longitude="-96.839809510"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3341" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835234172" longitude="-96.839974648"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3342" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835479509" longitude="-96.839677879"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3343" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835107147" longitude="-96.839838627"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3344" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835345110" longitude="-96.839541460"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3345" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.834986489" longitude="-96.839705002"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3346" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835226128" longitude="-96.839411823"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3347" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.834868513" longitude="-96.839567065"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3348" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835110968" longitude="-96.839272373"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3349" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835004923" longitude="-96.839110666"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3350" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835625102" longitude="-96.840380068"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_FacadePlacement" id="3351" parent_id="3294">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3352"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Fenced_Parking.fac"/>
+            <facade_placement height="10.0" pick_walls="1" resource="lib/airport/Common_Elements/Fence_Facades/Fenced_Parking.fac" show_level="3 Tons"/>
+        </object>
+        <object class="WED_FacadeRing" id="3352" parent_id="3351">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3353"/>
+                <child id="3354"/>
+                <child id="3355"/>
+                <child id="3356"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Facade 5 outer ring"/>
+        </object>
+        <object class="WED_FacadeNode" id="3353" parent_id="3352">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.835932884" longitude="-96.837743209" split="0"/>
+            <facade_node wall_type="Wall 5"/>
+        </object>
+        <object class="WED_FacadeNode" id="3354" parent_id="3352">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 2"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.836923848" longitude="-96.838927128" split="0"/>
+            <facade_node wall_type="Wall 5"/>
+        </object>
+        <object class="WED_FacadeNode" id="3355" parent_id="3352">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 3"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.836073906" longitude="-96.839992797" split="0"/>
+            <facade_node wall_type="Wall 5"/>
+        </object>
+        <object class="WED_FacadeNode" id="3356" parent_id="3352">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 4"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.835066747" longitude="-96.838835194" split="0"/>
+            <facade_node wall_type="Wall 5"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3357" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836175703" longitude="-96.840371936"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3358" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.835932377" longitude="-96.840661528"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3359" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836304404" longitude="-96.840482029"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3360" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836067111" longitude="-96.840771622"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3361" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836400874" longitude="-96.840607080"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3362" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836163469" longitude="-96.840896275"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3363" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836513758" longitude="-96.840745306"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3364" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836278681" longitude="-96.841030623"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3365" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836636631" longitude="-96.840884630"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3366" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836396992" longitude="-96.841175820"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3367" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836752261" longitude="-96.841022247"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3368" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836512622" longitude="-96.841311442"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3369" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836869567" longitude="-96.841153881"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3370" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836636631" longitude="-96.841437093"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3371" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837182003" longitude="-96.840785150"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3372" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837419408" longitude="-96.840495952"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3373" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837652344" longitude="-96.840210744"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3374" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837521631" longitude="-96.840073125"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3375" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837288695" longitude="-96.840358335"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3376" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837055759" longitude="-96.840643544"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3377" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837414380" longitude="-96.839911575"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3378" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837179768" longitude="-96.840194789"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3379" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836945157" longitude="-96.840478003"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3380" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837290371" longitude="-96.839781935"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3381" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837059111" longitude="-96.840065149"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3382" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836824499" longitude="-96.840350358"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3383" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836703842" longitude="-96.840225903"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3384" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836941246" longitude="-96.839938368"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3385" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837177735" longitude="-96.839648294"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3386" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836575844" longitude="-96.840090400"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3387" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836813249" longitude="-96.839804527"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3388" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.837050654" longitude="-96.839516992"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3389" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836452952" longitude="-96.839950788"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3390" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836691754" longitude="-96.839663253"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_ObjPlacement" id="3391" parent_id="3327">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="canopy_bp_large.obj"/>
+            <point heading="-44.61" latitude="32.836929158" longitude="-96.839372393"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/commercial/canopy_bp_large.obj" show_level="5 Too many"/>
+        </object>
+        <object class="WED_FacadeRing" id="3398" parent_id="3399">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3400"/>
+                <child id="3401"/>
+                <child id="3402"/>
+                <child id="3403"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Facade 12 outer ring"/>
+        </object>
+        <object class="WED_FacadePlacement" id="3399" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3398"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="White_Office.fac"/>
+            <facade_placement height="10.0" pick_walls="0" resource="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac" show_level="1 Default"/>
+        </object>
+        <object class="WED_FacadeNode" id="3400" parent_id="3398">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.830725171" longitude="-96.839178364" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3401" parent_id="3398">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 2"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.831385687" longitude="-96.838386359" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3402" parent_id="3398">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 3"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.831705937" longitude="-96.838797249" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3403" parent_id="3398">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 4"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.831045421" longitude="-96.839589255" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeRing" id="3404" parent_id="3405">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3406"/>
+                <child id="3407"/>
+                <child id="3408"/>
+                <child id="3409"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Facade 13 outer ring"/>
+        </object>
+        <object class="WED_FacadePlacement" id="3405" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3404"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="White_Office.fac"/>
+            <facade_placement height="10.0" pick_walls="0" resource="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac" show_level="1 Default"/>
+        </object>
+        <object class="WED_FacadeNode" id="3406" parent_id="3404">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.831881073" longitude="-96.837826595" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3407" parent_id="3404">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 2"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832636663" longitude="-96.836921446" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3408" parent_id="3404">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 3"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832976929" longitude="-96.837320426" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3409" parent_id="3404">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 4"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832226343" longitude="-96.838231531" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeRing" id="3410" parent_id="3411">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3412"/>
+                <child id="3413"/>
+                <child id="3414"/>
+                <child id="3415"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Facade 14 outer ring"/>
+        </object>
+        <object class="WED_FacadePlacement" id="3411" parent_id="5">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="3410"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="White_Office.fac"/>
+            <facade_placement height="10.0" pick_walls="0" resource="lib/airport/Common_Elements/Misc_Buildings/White_Office.fac" show_level="1 Default"/>
+        </object>
+        <object class="WED_FacadeNode" id="3412" parent_id="3410">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832266358" longitude="-96.836170101" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3413" parent_id="3410">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 2"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.831595834" longitude="-96.835366185" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3414" parent_id="3410">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 3"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832026170" longitude="-96.834871926" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
+        <object class="WED_FacadeNode" id="3415" parent_id="3410">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 4"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.832716709" longitude="-96.835657977" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
     </objects>
     <prefs>
         <pref name="PropertyPane0/Closed">
+            <item value="5"/>
             <item value="9"/>
             <item value="17"/>
             <item value="1155"/>
@@ -32433,7 +33176,6 @@
             <item value="2871"/>
             <item value="2875"/>
             <item value="2881"/>
-            <item value="2966"/>
             <item value="3029"/>
             <item value="3031"/>
             <item value="3033"/>
@@ -32453,20 +33195,20 @@
             <item value="3128"/>
             <item value="3133"/>
             <item value="3168"/>
-            <item value="3294"/>
             <item value="3301"/>
+            <item value="3327"/>
         </pref>
         <pref name="doc/export_target" value="5"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-96.818763"/>
-        <pref name="map/north" value="32.861841"/>
+        <pref name="map/east" value="-96.828426"/>
+        <pref name="map/north" value="32.847464"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="32.787877"/>
+        <pref name="map/south" value="32.817999"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-96.892867"/>
+        <pref name="map/west" value="-96.857956"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -32488,7 +33230,7 @@
         <pref name="map_Light Fixture_Approach Angle" value="3.000000"/>
         <pref name="map_Light Fixture_Fixture Type" value="35"/>
         <pref name="map_Lines_Resource" value="lib/airport/lines/9_double_parking.lin"/>
-        <pref name="map_Objects_Object" value="lib/airport/Common_Elements/Hangars/FBO_Modern1.agp"/>
+        <pref name="map_Objects_Object" value="lib/g10/US/commercial/canopy_bp_large.obj"/>
         <pref name="map_Objects_Show with" value="558"/>
         <pref name="map_Polygons_Heading" value="0.000000"/>
         <pref name="map_Polygons_Resource" value="lib/g10/US/industrial/light/IndLightFlatDry1.ags"/>
@@ -32541,8 +33283,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="384"/>
         <pref name="window/main_split2" value="1290"/>
-        <pref name="window/prev_split" value="457"/>
-        <pref name="window/prop_split" value="501"/>
+        <pref name="window/prev_split" value="467"/>
+        <pref name="window/prop_split" value="511"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
