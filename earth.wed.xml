@@ -68,9 +68,7 @@
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection>
-                <sel id="4"/>
-            </selection>
+            <selection/>
         </object>
         <object class="WED_FacadeNode" id="4098" parent_id="4095">
             <sources/>
@@ -2861,14 +2859,6 @@
                 <marking value="Boundary Edge Lights (Red)"/>
             </markings>
         </object>
-        <object class="WED_TruckParkingLocation" id="4242" parent_id="3552">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 55"/>
-            <point heading="-45.00" latitude="32.838036654" longitude="-96.844678585"/>
-            <truck_parking_spot number_of_cars="3" type="Pushback"/>
-        </object>
         <object class="WED_AirportNode" id="147" parent_id="142">
             <sources/>
             <viewers/>
@@ -2876,14 +2866,6 @@
             <hierarchy hidden="0" locked="0" name="unnamed entity"/>
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.848524600" longitude="-96.844131010" split="0"/>
             <markings/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4243" parent_id="3552">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 56"/>
-            <point heading="-48.24" latitude="32.837802080" longitude="-96.844382233"/>
-            <truck_parking_spot number_of_cars="3" type="Ground Power Unit"/>
         </object>
         <object class="WED_AirportNode" id="148" parent_id="142">
             <sources/>
@@ -2894,14 +2876,6 @@
             <markings>
                 <marking value="Boundary Edge Lights (Red)"/>
             </markings>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4244" parent_id="3552">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 57"/>
-            <point heading="-42.74" latitude="32.837612871" longitude="-96.844171052"/>
-            <truck_parking_spot number_of_cars="3" type="Fuel Truck (Props)"/>
         </object>
         <object class="WED_AirportNode" id="149" parent_id="142">
             <sources/>
@@ -4039,14 +4013,6 @@
                 <marking value="Boundary Edge Lights (Red)"/>
             </markings>
         </object>
-        <object class="WED_TruckParkingLocation" id="4312" parent_id="3552">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 121"/>
-            <point heading="-45.86" latitude="32.849652765" longitude="-96.841940890"/>
-            <truck_parking_spot number_of_cars="3" type="Pushback"/>
-        </object>
         <object class="WED_AirportNode" id="217" parent_id="196">
             <sources/>
             <viewers/>
@@ -4056,14 +4022,6 @@
             <markings>
                 <marking value="Boundary Edge Lights (Red)"/>
             </markings>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4313" parent_id="3552">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 122"/>
-            <point heading="-41.35" latitude="32.849497973" longitude="-96.841747268"/>
-            <truck_parking_spot number_of_cars="3" type="Ground Power Unit"/>
         </object>
         <object class="WED_AirportNode" id="218" parent_id="196">
             <sources/>
@@ -5277,6 +5235,14 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.856269180" longitude="-96.851605290" split="0"/>
             <markings/>
         </object>
+        <object class="WED_FacadeNode" id="4381" parent_id="4361">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.845922112" longitude="-96.868778286" split="0"/>
+            <facade_node wall_type="Wall 1"/>
+        </object>
         <object class="WED_Taxiway" id="286" parent_id="17">
             <sources/>
             <viewers/>
@@ -5285,6 +5251,14 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Twy M / Abnd Twy"/>
             <taxiway heading="0.00" roughness="0.25" surface="Concrete"/>
+        </object>
+        <object class="WED_FacadeNode" id="4382" parent_id="4361">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Node 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.847183709" longitude="-96.867219895" split="0"/>
+            <facade_node wall_type="Wall 1"/>
         </object>
         <object class="WED_AirportChain" id="287" parent_id="286">
             <sources/>
@@ -32245,84 +32219,6 @@
             <point heading="0.00" latitude="32.845390966" longitude="-96.850208715"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Pod_Pkng.obj" show_level="1 Default"/>
         </object>
-        <object class="WED_TruckParkingLocation" id="2983" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 4"/>
-            <point heading="0.00" latitude="32.845482267" longitude="-96.850222515"/>
-            <truck_parking_spot number_of_cars="3" type="Pushback"/>
-        </object>
-        <object class="WED_TruckDestination" id="3005" parent_id="3029">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck Destination 6"/>
-            <point heading="0.00" latitude="32.845439575" longitude="-96.851777129"/>
-            <truck_destination>
-                <types value="Crew Car"/>
-                <types value="Fuel Truck (Jets)"/>
-                <types value="Catering Truck"/>
-                <types value="Ground Power Unit"/>
-                <types value="Pushback"/>
-            </truck_destination>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3007" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 8"/>
-            <point heading="0.00" latitude="32.845495001" longitude="-96.850191038"/>
-            <truck_parking_spot number_of_cars="3" type="Crew Car"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3008" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 9"/>
-            <point heading="0.00" latitude="32.845388558" longitude="-96.850258653"/>
-            <truck_parking_spot number_of_cars="3" type="Baggage Loader"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3009" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 10"/>
-            <point heading="0.00" latitude="32.845462536" longitude="-96.848914870"/>
-            <truck_parking_spot number_of_cars="3" type="Baggage Train"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3010" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 11"/>
-            <point heading="0.00" latitude="32.845429175" longitude="-96.849008859"/>
-            <truck_parking_spot number_of_cars="3" type="Fuel Truck (Jets)"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3011" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 12"/>
-            <point heading="0.00" latitude="32.845431444" longitude="-96.850164102"/>
-            <truck_parking_spot number_of_cars="3" type="Catering Truck"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3012" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 13"/>
-            <point heading="0.00" latitude="32.845498253" longitude="-96.850261524"/>
-            <truck_parking_spot number_of_cars="3" type="Ground Power Unit"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="3013" parent_id="3031">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 14"/>
-            <point heading="0.00" latitude="32.845409777" longitude="-96.850224279"/>
-            <truck_parking_spot number_of_cars="3" type="Pushback"/>
-        </object>
         <object class="WED_ObjPlacement" id="3026" parent_id="3029">
             <sources/>
             <viewers/>
@@ -32331,28 +32227,10 @@
             <point heading="0.00" latitude="32.845357187" longitude="-96.848960546"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Cargo_Pod_Pkng.obj" show_level="1 Default"/>
         </object>
-        <object class="WED_TruckDestination" id="3027" parent_id="3029">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck Destination 2"/>
-            <point heading="0.00" latitude="32.845389541" longitude="-96.848408171"/>
-            <truck_destination>
-                <types value="Crew Car"/>
-                <types value="Fuel Truck (Jets)"/>
-                <types value="Catering Truck"/>
-                <types value="Ground Power Unit"/>
-                <types value="Pushback"/>
-            </truck_destination>
-        </object>
         <object class="WED_Group" id="3029" parent_id="5">
             <sources/>
             <viewers/>
             <children>
-                <child id="3027"/>
-                <child id="3101"/>
-                <child id="3100"/>
-                <child id="3005"/>
                 <child id="2982"/>
                 <child id="3026"/>
                 <child id="3031"/>
@@ -32362,16 +32240,7 @@
         <object class="WED_Group" id="3031" parent_id="3029">
             <sources/>
             <viewers/>
-            <children>
-                <child id="3013"/>
-                <child id="3012"/>
-                <child id="3011"/>
-                <child id="3010"/>
-                <child id="3009"/>
-                <child id="3008"/>
-                <child id="3007"/>
-                <child id="2983"/>
-            </children>
+            <children/>
             <hierarchy hidden="0" locked="0" name="Group Vehicle"/>
         </object>
         <object class="WED_ObjPlacement" id="3032" parent_id="3033">
@@ -32894,33 +32763,6 @@
             <hierarchy hidden="0" locked="0" name="Jetway_250cm.obj"/>
             <point heading="-39.56" latitude="32.846205406" longitude="-96.849100527"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Jetway_250cm.obj" show_level="1 Default"/>
-        </object>
-        <object class="WED_TruckDestination" id="3100" parent_id="3029">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck Destination 29"/>
-            <point heading="-179.54" latitude="32.846704124" longitude="-96.851374458"/>
-            <truck_destination>
-                <types value="Baggage Train"/>
-                <types value="Catering Truck"/>
-                <types value="Ground Power Unit"/>
-                <types value="Pushback"/>
-            </truck_destination>
-        </object>
-        <object class="WED_TruckDestination" id="3101" parent_id="3029">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck Destination 30"/>
-            <point heading="-179.32" latitude="32.846680880" longitude="-96.848414914"/>
-            <truck_destination>
-                <types value="Baggage Loader"/>
-                <types value="Fuel Truck (Jets)"/>
-                <types value="Catering Truck"/>
-                <types value="Ground Power Unit"/>
-                <types value="Pushback"/>
-            </truck_destination>
         </object>
         <object class="WED_FacadeNode" id="3102" parent_id="2968">
             <sources/>
@@ -36327,8 +36169,6 @@
             <viewers/>
             <children>
                 <child id="4308"/>
-                <child id="4313"/>
-                <child id="4312"/>
                 <child id="3556"/>
                 <child id="3555"/>
                 <child id="3554"/>
@@ -36339,9 +36179,6 @@
                 <child id="4083"/>
                 <child id="4082"/>
                 <child id="4081"/>
-                <child id="4244"/>
-                <child id="4243"/>
-                <child id="4242"/>
                 <child id="4266"/>
                 <child id="4265"/>
                 <child id="4275"/>
@@ -40349,11 +40186,6 @@
                 <child id="4062"/>
                 <child id="4061"/>
                 <child id="4060"/>
-                <child id="4059"/>
-                <child id="4056"/>
-                <child id="4054"/>
-                <child id="4053"/>
-                <child id="4052"/>
                 <child id="4051"/>
                 <child id="4050"/>
                 <child id="4049"/>
@@ -40429,46 +40261,6 @@
             <hierarchy hidden="0" locked="0" name="Luggage_Cart_Pkng.obj"/>
             <point heading="-90.00" latitude="32.848708559" longitude="-96.851048880"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/airport/Ramp_Equipment/Luggage_Cart_Pkng.obj" show_level="3 Tons"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4052" parent_id="4041">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 15"/>
-            <point heading="-90.56" latitude="32.848731047" longitude="-96.851121923"/>
-            <truck_parking_spot number_of_cars="3" type="Pushback"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4053" parent_id="4041">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 16"/>
-            <point heading="179.19" latitude="32.848711637" longitude="-96.850914579"/>
-            <truck_parking_spot number_of_cars="3" type="Crew Car"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4054" parent_id="4041">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 17"/>
-            <point heading="177.68" latitude="32.848712700" longitude="-96.850888635"/>
-            <truck_parking_spot number_of_cars="3" type="Crew Car"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4056" parent_id="4041">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 19"/>
-            <point heading="-179.01" latitude="32.848698959" longitude="-96.851502731"/>
-            <truck_parking_spot number_of_cars="3" type="Fuel Truck (Liners)"/>
-        </object>
-        <object class="WED_TruckParkingLocation" id="4059" parent_id="4041">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="New Service Truck 22"/>
-            <point heading="0.00" latitude="32.848718250" longitude="-96.852219549"/>
-            <truck_parking_spot number_of_cars="3" type="Baggage Loader"/>
         </object>
         <object class="WED_ObjPlacement" id="4060" parent_id="4041">
             <sources/>
@@ -40765,22 +40557,6 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Blue_Warehouse.fac"/>
             <facade_placement height="10.0" pick_walls="0" resource="lib/airport/Common_Elements/Misc_Buildings/Blue_Warehouse.fac" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_FacadeNode" id="4381" parent_id="4361">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.845922112" longitude="-96.868778286" split="0"/>
-            <facade_node wall_type="Wall 1"/>
-        </object>
-        <object class="WED_FacadeNode" id="4382" parent_id="4361">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Node 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="32.847183709" longitude="-96.867219895" split="0"/>
-            <facade_node wall_type="Wall 1"/>
         </object>
         <object class="WED_FacadeNode" id="4383" parent_id="4361">
             <sources/>
@@ -42258,15 +42034,15 @@
         </pref>
         <pref name="doc/export_target" value="5"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-96.831220"/>
-        <pref name="map/north" value="32.856412"/>
+        <pref name="map/east" value="-96.828469"/>
+        <pref name="map/north" value="32.859158"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="32.827520"/>
+        <pref name="map/south" value="32.824774"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-96.860180"/>
+        <pref name="map/west" value="-96.862931"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -42341,8 +42117,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="384"/>
         <pref name="window/main_split2" value="1290"/>
-        <pref name="window/prev_split" value="587"/>
-        <pref name="window/prop_split" value="634"/>
+        <pref name="window/prev_split" value="597"/>
+        <pref name="window/prop_split" value="644"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
